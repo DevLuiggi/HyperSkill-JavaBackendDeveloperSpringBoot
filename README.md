@@ -1,2 +1,2 @@
 # HyperSkill-JavaBackendDeveloperSpringBoot
-Repository of problems solutions to practice my skills in Java
+Repository of solutions to problems for practicing my Java skills.
