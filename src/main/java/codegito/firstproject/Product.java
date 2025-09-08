@@ -1,4 +1,4 @@
-package codegito;
+package codegito.firstproject;
 
 public class Product {
     String name;

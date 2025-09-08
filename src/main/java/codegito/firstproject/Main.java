@@ -1,4 +1,4 @@
-package codegito;
+package codegito.firstproject;
 
 import java.util.ArrayList;
 import java.util.List;
